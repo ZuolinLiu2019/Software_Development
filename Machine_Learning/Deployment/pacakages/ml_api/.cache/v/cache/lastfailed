@@ -1,0 +1,5 @@
+{
+  "tests/differential_tests/test_differential.py": true,
+  "tests/test_controller.py": true,
+  "tests/test_validation.py": true
+}
